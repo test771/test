@@ -15,6 +15,7 @@ public class Calculator {
 	}
 	
 	public double devide(int a, int b){
+		System.out.println("some");
 		return a%b;
 	}
 	
